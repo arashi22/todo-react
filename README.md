@@ -2,5 +2,5 @@
 
 You can run this app by executing following commands
 
-yarn install
+yarn install <br/>
 yarn start
